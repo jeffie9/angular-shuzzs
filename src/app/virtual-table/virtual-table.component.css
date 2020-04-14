@@ -1,0 +1,19 @@
+.mat-column-category {
+  min-width: 8rem;
+}
+
+.mat-column-phase {
+  min-width: 8rem;
+}
+
+.mat-column-appearance {
+  min-width: 30rem;
+}
+
+.mat-column-discoveredBy {
+  min-width: 10rem;
+}
+
+.even {
+    background: #F4F6F7;
+}
